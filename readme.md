@@ -1,7 +1,5 @@
-Project https://www.theodinproject.com/lessons/foundations-recipes from odin project where we are supposed to create a small recipe website.
+[Odin Project getting started HTML first project] (https://www.theodinproject.com/lessons/foundations-recipes) where we are supposed to create a small recipe website.
 
-What I used
+What I've used:
 
-Html
-
-headers, lists, links and images.
+Html headers, lists, links and images.
